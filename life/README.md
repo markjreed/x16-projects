@@ -11,4 +11,4 @@ supporting any live cells outside that bounary.
 |----|-----------|
 |[life.p8](life.p8)|Source code|
 |[life.prg](life.prg)|Runnable executable|
-|[life.mp4](life.mpr)|Short demo video|
+|[life.mp4](life.mp4)|Short demo video|
